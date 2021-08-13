@@ -1,4 +1,4 @@
-# **The Power of Subgraphs: Enhancing Efficiency and Effectiveness of GraphConvolutional Networks with Structure-Aware Sparsifiers**
+# **The Power of Subgraphs: Enhancing Efficiency and Effectiveness of Graph Convolutional Networks with Structure-Aware Sparsifiers**
 ------------------------------------------------------------------------------------------------------------------------------------
 **1. Requirements**
 
